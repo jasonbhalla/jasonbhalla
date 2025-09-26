@@ -1,5 +1,5 @@
 # Hi, I’m <span style="color:#006876">Jason Bhalla</span>!
-### jasonbhalla.com
+### [jasonbhalla.com](https://jasonbhalla.com)
 
 Welcome to my GitHub Profile!
 
