@@ -3,10 +3,10 @@
 
 Welcome to my GitHub Profile!
 
-I'm a Junior at Stevens Institute of Technology pursuing Bachelor's degrees in Computer Science and Mathematics, and graduate certificates in Software Engineering, Machine Learning, and Data Science and Data Engineering. I'm currently researching transformer-boosted local-search algorithms for constructions in group theory, and algorithms to iteratively generate incidence structures. I also have the pleasure of being part of an amazing Software Engineering team at Advantest!
+I'm a Junior at Stevens Institute of Technology pursuing Bachelor's degrees in Computer Science and Mathematics, and graduate certificates in Software Engineering, Machine Learning, and Data Science / Engineering. I'm currently working on interesting research projects and developing some fun projects of my own! I also have the pleasure of being part of an amazing Software Engineering team at Advantest!
 
-I am actively working on open-sourcing my (previously private) projects, so expect my profile to have more soon! **I have a lot more projects that are not yet published but are in the process of being open-sourced!**
+I am actively working on open-sourcing my (previously private) projects, so expect my profile to have more soon!
 
 Thanks!
 
-_Updated December 24, 2025_
+_Updated January 9, 2026_
